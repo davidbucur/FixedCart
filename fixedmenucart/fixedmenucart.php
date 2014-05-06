@@ -11,7 +11,7 @@ class fixedmenucart extends Module {
 	public function __construct() {
 		$this->name 		= 'fixedmenucart';
 		$this->tab 			= 'front_office_features';
-		$this->version 		= '1.0.2';
+		$this->version 		= '1.0.1.1';
 		$this->author 		= 'David Bucur';
 		$this->displayName 	= $this->l('Fixed Menu & Cart');
 		$this->description 	= $this->l('This module allows you to keep the Shopping Cart and Menu visible when you scroll down.');
